@@ -1,0 +1,5 @@
+Package label: LINH LUU
+
+This package label identifies this redistributed archive. It does not assert ownership or original authorship of the included project.
+Original project credits remain in the README.
+License: CC0 1.0 Universal. The original legal terms remain in LICENSE.
